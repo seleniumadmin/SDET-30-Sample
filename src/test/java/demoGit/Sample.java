@@ -8,8 +8,11 @@ public class Sample {
 	public void sample() {
 		
 		System.out.println("User-1 First Commit");
-		
+	
 		System.out.println("User-1 Second Commit");
+		
+		System.out.println("User2 First Commit");
+		
 	}
 
 
